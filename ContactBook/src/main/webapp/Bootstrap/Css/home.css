@@ -1,0 +1,46 @@
+#button:hover{
+
+    box-shadow:  #4787f5 0px 5px 5px 5px, transparent 0 0 0 3px;
+    background-color: rgb(255, 255, 255);
+    width:100px;
+    height: 102px;
+}
+body{
+    background-color: rgb(48, 45, 45);
+}
+#button{
+    
+   
+    width:98px;
+    height: 100px;
+  align-items: center;
+  background-color: #c9c2c2da;
+  border-radius: 50%;
+  box-shadow: transparent 0 0 0 3px, #4a4a50 0px 5px 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  line-height: 1;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.2rem;
+  text-decoration: none;
+  transition: box-shadow .2s,-webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+    
+
+#cont{
+    text-align: center;
+    padding-top: 21%;
+    
+    
+}
